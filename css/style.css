@@ -33,6 +33,15 @@
 
 }
 
+.kont{
+    
+    margin-top:1rem;
+    
+    
+    z-index:4;
+}
+
+
 
 
 .carousel-item img{
@@ -134,13 +143,22 @@ footer p{
 }
 
 .fa-brands{
-    font-size: 2vw;
+    font-size: 1.7rem;
     color: white;
 }
 
 .fa-solid{
-    font-size: 2vw;
+    font-size: 1.7rem;
     color: white;
+
+}
+
+.fa-brands:hover{
+    color: rgb(184, 180, 180);
+}
+
+.fa-solid:hover{
+    color: rgb(184, 180, 180);
 
 }
 
