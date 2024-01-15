@@ -120,7 +120,7 @@ footer p{
 .top {
     
     text-align: right;
-    font-size: 4vw;
+    font-size: 3rem;
     position: sticky;
     bottom: 180px;
     transform: translateY(175px);
@@ -130,7 +130,27 @@ footer p{
 }
 
 .top p a{
-    color: rgba(139, 138, 136, 0.377);
+    color: rgba(114, 113, 112, 0.377);
+}
+
+.fa-brands{
+    font-size: 2vw;
+    color: white;
+}
+
+.fa-solid{
+    font-size: 2vw;
+    color: white;
+
+}
+
+.text{
+    background-color: black;
+    transform: translateY(100px);
+    color: white;
+    text-align: center;
+
+    
 }
 
 
