@@ -45,7 +45,7 @@
     
     position:fixed;
     text-align: center;
-    z-index: 3;
+    z-index: 2;
    
     width: 40vw;
     
@@ -129,7 +129,17 @@ footer p{
     margin-bottom: 0;
     padding: 1rem 1rem;
     background-color: rgb(126, 114, 102);
+    color: black;
+}
+
+footer p a{
+    font-size: 1rem;
+    text-decoration: none;
     color: white;
+}
+
+footer p a:hover{
+    color: rgb(184, 180, 180);
 }
 
 
@@ -170,12 +180,12 @@ footer p{
 }
 
 .fa-brands{
-    font-size: 1.7rem;
+    font-size: 1rem;
     color: white;
 }
 
 .fa-solid{
-    font-size: 1.7rem;
+    font-size: 1rem;
     color: white;
 
 }
