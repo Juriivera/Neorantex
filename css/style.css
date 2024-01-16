@@ -27,7 +27,7 @@
 
 
 .brand1{
-    margin-top:1rem;
+    margin-top:0.5rem;
     position:fixed;
     justify-content:center;
     z-index:3;
@@ -38,6 +38,21 @@
     background-color: rgba(61, 60, 60, 0.544);
     font-size: 80%;
     letter-spacing: 2vw;
+
+}
+
+.brand1 h6{
+    
+    position:fixed;
+    justify-content:center;
+    z-index:3;
+    
+    
+    padding-left: 0.8vw;
+    margin-top: 4px;
+    font-size: 80%;
+    color:rgba(255, 255, 255, 0.651);
+    letter-spacing: 10px;
 
 }
 
